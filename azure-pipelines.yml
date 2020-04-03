@@ -27,3 +27,6 @@ stages:
         dockerfile: '$(Build.SourcesDirectory)/CHAP07/appdocker/Dockerfile'
         tags: |
           $(tag)
+
+
+          
